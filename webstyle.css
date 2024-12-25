@@ -98,11 +98,11 @@ header .menu{
         top: 100px;
         right: 100%;
         background: rgba(0, 0, 0, 0.5);
-        height: calc(100vhh - 100px);
+        height: calc(100vh - 100px);
         width: 50%;
         flex-direction: column;
         align-items: center;
-        transition: right:0.5s linear;
+        transition: right: 0.5s linear;
 
     }
     header .menu{
