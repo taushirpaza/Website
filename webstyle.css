@@ -6,7 +6,7 @@
 
 }
 body{
-    background: url(dark1.jpg);
+    background: url(bg.jpg);
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -33,7 +33,7 @@ i{
 }
 header .logo{
     flex: 1;
-    color: aqua;
+    color: rgb(255, 153, 0);
     margin-left: 50px;
     text-transform: uppercase;
 }
